@@ -1,1 +1,22 @@
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Provided by: Qiracy ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+(ALL GAMES ARE PRE-INSTALLED, YOU JUST NEED TO EXRACT AND RUN)
+
+HOW TO RUN A GAME:
+——————————————————————
+
+1. Run the installer to get the files to extract the game. (Exclusion In Anti-Virus Recommended)
+
+2. All the programs in the _CommonRedist folder must be installed to run a game. (If you already have them installed then skip)
+
+3. Extract the game in the drive where you want to keep it. (avoid Desktop/OneDrive or C drive in some cases due to permission issues)
+
+4. Navigate to the '.exe' file of the game and Run it as an Administrator. (Sometimes it may not be required to run as administrator, but its recommended incase of permissions issue)
+Note: The exe file will be the game launcher file.
+
+5. Its mandatory otherwise it will not run or save progress.
+
+6. Your data may/will be recorded.
+——————————————————————————————————————————————————————————————————
+For more FREE VIDEO GAMES FOR PC, latest news, updates and support; join our discord: 		https://dsc.gg/qiracy/
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————
